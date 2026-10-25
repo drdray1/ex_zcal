@@ -19,7 +19,7 @@ Built in the same style as its sibling clients (small focused modules,
 ```elixir
 def deps do
   [
-    {:ex_zcal, git: "https://github.com/drdray1/ex_zcal.git", tag: "0.1.0"}
+    {:ex_zcal, git: "https://github.com/drdray1/ex_zcal.git", tag: "0.1.1"}
   ]
 end
 ```
